@@ -1,9 +1,9 @@
-# harvard-algorithms-I-percolation
+# Percolation
 
 ## Requirements
 
 - [Setup](https://lift.cs.princeton.edu/java/mac/)
-- [algs4 lib documentation](algs4.cs.princeton.edu/code/javadoc/edu/princeton/cs/algs4)
+- [algs4 lib documentation](http://algs4.cs.princeton.edu/code/javadoc/edu/princeton/cs/algs4)
 
 ## Specification
 
